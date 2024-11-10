@@ -15,18 +15,9 @@ Technologies Used
 HTML: Markup structure for the web pages.
 Bootstrap: CSS framework for responsive design and UI components.
 Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/apparel-website.git
 Open the project folder:
-
-bash
-Copy code
 cd apparel-website
 Open index.html in your browser.
-
 Folder Structure
 bash
 Copy code
