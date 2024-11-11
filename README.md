@@ -11,31 +11,46 @@ Product Categories: Display products categorized by collections.
 Modern UI: Styled with Bootstrap for a clean, professional look.
 Contact & About Pages: Additional information about the brand and ways to connect.
 Smooth Navigation: Easy to navigate and user-friendly.
+
 Technologies Used
 HTML: Markup structure for the web pages.
 Bootstrap: CSS framework for responsive design and UI components.
 Installation
+
 Open the project folder:
 cd apparel-website
+
 Open index.html in your browser.
 Folder Structure
-bash
-Copy code
+
 apparel-website/
+
 ├── index.html          # Main landing page
+
 ├── about.html          # About Us page
+
 ├── contact.html        # Contact page
+
 ├── assets/
+
 │   ├── css/
+
 │   │   └── styles.css  # Custom CSS
+
 │   ├── images/         # Images folder
+
 │   └── js/
+
 │       └── scripts.js  # Custom JavaScript (if any)
+
 └── README.md           # This file
+
 Usage
 Feel free to use and modify this project as a template for your own apparel or e-commerce website. Contributions and pull requests are welcome!
 
+
 Contributing
+
 Fork the repository.
 Create a new branch:
 git checkout -b feature/your-feature-name
